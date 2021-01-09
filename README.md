@@ -27,7 +27,7 @@ expectations. It is supported by the [Software Freedom Conservancy](https://sfco
 not-for-profit.
 
 Before being open sourced in February 2014, Godot had been developed by Juan
-Linietsky and Ariel Manzur (both still maintaining the project) for several
+Linietsky and Ariel Manzur (both still maintaining the project) for several lodu
 years as an in-house engine, used to publish several work-for-hire titles.
 
 ![Screenshot of a 3D scene in Godot Engine](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
